@@ -6,15 +6,15 @@
   </specVersion>
   <device>
 <deviceType>urn:Belkin:device:controllee:1</deviceType>
-<friendlyName>lights</friendlyName>
+<friendlyName>{{friendlyName}}</friendlyName>
     <manufacturer>Belkin International Inc.</manufacturer>
     <manufacturerURL>http://www.belkin.com</manufacturerURL>
     <modelDescription>Belkin Plugin Socket 1.0</modelDescription>
     <modelName>Socket</modelName>
     <modelNumber>1.0</modelNumber>
     <modelURL>http://www.belkin.com/plugin/</modelURL>
-<serialNumber>{{serial_number}}</serialNumber>
-<UDN>uuid:Socket-1_0-{{serial_number}}</UDN>
+<serialNumber>{{serialNumber}}</serialNumber>
+<UDN>uuid:Socket-1_0-{{serialNumber}}</UDN>
     <UPC>123456789</UPC>
     <iconList>
       <icon>
